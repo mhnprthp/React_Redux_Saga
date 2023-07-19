@@ -1,0 +1,24 @@
+{
+  "Employees": [
+    {
+      "id": 1,
+      "name": "prathap",
+      "code": "gjngj4",
+      "department": "fgmm5",
+      "address": "nagercoil"
+    },
+    {
+      "id": 2,
+      "name": "prathap",
+      "code": "gjngj4",
+      "department": "fgmm5",
+      "address": "nagercoil"
+    },
+    {
+      "name": "surya",
+      "department": "ebu",
+      "address": "chennai",
+      "id": 3
+    }
+  ]
+}
